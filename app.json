@@ -1,0 +1,7 @@
+{
+  "expo": {
+    "sdkVersion": "27.0.0"
+  },
+  "name": "secp256k1reactnative",
+  "displayName": "secp256k1-react-native"
+}

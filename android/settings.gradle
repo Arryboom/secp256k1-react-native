@@ -1,0 +1,3 @@
+rootProject.name = 'secp256k1reactnative'
+
+include ':app'
